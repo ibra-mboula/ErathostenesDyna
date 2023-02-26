@@ -27,6 +27,30 @@ struct TListPrimes {
 };
 
 /*  TODO ... */
+void InitializeTListPrimes(){
+
+	
+	
+	
+	}
+	
+void Erathostenes(){
+	
+	
+	
+	}
+
+void ShowPrimes2(){
+	
+	
+	
+	}
+
+void DestroyTListPrimes(){
+	
+	
+	
+	}
 
 int main(int argc, char* argv[]) {
     clock_t ct1, ct2;
